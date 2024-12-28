@@ -16,6 +16,8 @@ JavaScript: For implementing the password strength evaluation logic and dynamica
 # Features:
 Password Strength Feedback:Users receive detailed feedback about their password's length, complexity, and uniqueness.
 Suggestions are provided to improve weak passwords.
+
 Real-Time Strength Bar: A visual strength bar dynamically adjusts its width and color based on the password's overall strength (e.g., weak, medium, strong).
+
 Detailed Criteria Breakdown:Feedback includes information about password length, presence of uppercase letters, lowercase letters, numbers, special characters, and avoidance of common patterns.
 Project output: ![foto_no_exif](https://github.com/user-attachments/assets/7dc63962-c6a7-44a3-83e7-f53aacff74e6)
